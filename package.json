@@ -1,0 +1,25 @@
+{
+  "name": "perf-test-react-app",
+  "version": "1.0.0",
+  "description": "React Application to understand page performance",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharanmunyal/page-perf-react-app.git"
+  },
+  "keywords": [
+    "React",
+    "Performace"
+  ],
+  "author": "sharan.munyal@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharanmunyal/page-perf-react-app/issues"
+  },
+  "homepage": "https://github.com/sharanmunyal/page-perf-react-app#readme"
+}
