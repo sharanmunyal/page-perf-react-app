@@ -1,4 +1,5 @@
 var React = require('react');
 var PerfApp = require('./views/index.jsx');
+var ReactDOM = require('react-dom');
 
-React.render(<PerfApp />, document.getElementById('container'));
+ReactDOM.render(<PerfApp />, document.getElementById('container'));

@@ -39,5 +39,5 @@ app.use('/', function(req, res) {
 
 var server = app.listen(3333, function() {
   var addr = server.address();
-  console.log('Listening @ http://%s:%d', addr.address, addr.port);
+  console.log('Listening @ http://localhost%d', addr.port);
 });
